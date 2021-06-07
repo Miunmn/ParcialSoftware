@@ -1,0 +1,7 @@
+organization=miunmn
+projectKey=Miunmn_ParcialSoftware
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.20746
+dashboardUrl=https://sonarcloud.io/dashboard?id=Miunmn_ParcialSoftware
+ceTaskId=AXnkzdxKNwbj_J8xQEPI
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXnkzdxKNwbj_J8xQEPI
